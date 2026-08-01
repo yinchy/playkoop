@@ -1,6 +1,6 @@
 import * as THREE from 'three';
-import { OrbitControls } from './node_modules/three/examples/jsm/controls/OrbitControls.js';
-import { VRButton } from './node_modules/three/examples/jsm/webxr/VRButton.js';
+import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
+import { VRButton } from 'three/examples/jsm/webxr/VRButton.js';
 import {
   COMMODITIES,
   PLANETS,
