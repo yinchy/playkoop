@@ -1,0 +1,19 @@
+{
+  "name": "playkoop",
+  "version": "1.0.0",
+  "description": "Interactivity sandbox",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/yinchy/playkoop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "three": "^0.167.1"
+  }
+}
