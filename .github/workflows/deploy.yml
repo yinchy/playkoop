@@ -6,6 +6,7 @@ on:
       - main
       - master
       - copilot/deploy-build-to-public-url
+      - copilot/url-of-deployed-webapp
   workflow_dispatch:
 
 permissions:
